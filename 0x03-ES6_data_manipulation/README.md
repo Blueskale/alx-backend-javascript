@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # :book: 0x00. ES6 Basics
 ## Topics Covered
 1. ECMAScript 6 - ECMAScript 2015.
@@ -225,3 +226,6 @@ npm run dev ./tests/101-main.js
 1. [npm vs npx — What’s the Difference?](https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/)
 1. [Jestr Getting Started](https://jestjs.io/docs/27.x/getting-started)
 
+=======
+# 0x03-ES6_data_manipulation
+>>>>>>> 29980767fbdb7fa3980e07aa479a9a3b1543ce6c
